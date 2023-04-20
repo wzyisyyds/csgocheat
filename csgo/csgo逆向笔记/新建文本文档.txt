@@ -1,0 +1,17 @@
+ct 3 // t 2
+
+dwViewMatrix	视觉矩阵
+
+
+dwEntityList	人物实体
+
+m_iTeamNum	人物队伍
+
+m_iHealth		人物血量
+
+m_bDormant 	休眠标志
+
+
+dwBoneMatrix      	骨骼偏移
+
+
