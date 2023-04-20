@@ -1,5 +1,19 @@
-# 此项目当作lua学习，c++学习，驱动开发，简单的练习
-# 这是一个csgo的作弊工具，由于我git不熟练，不建议进行git，可以下载的打包好的压缩包，自己构建。
-# 后续不会维护
-# 感谢https://github.com/frk1/hazedumper 
-# 感谢https://github.com/Whitebird0/driver_read_and_write
+# Csgo Cheat
+## 相关技术
+- 汇编阅读能力
+- CR3和MDL读取内存
+- 利用PEB读取动态链接库的链表
+- 驱动和应用程序通信
+- 代码实现驱动安装和卸载
+- lua配置调用C++代码
+## 使用
+
+**请自己尝试构建**
+**仅供学习参考**
+**程序无法直接使用请自己构建**
+**请关闭vac后使用**
+
+## 后续不会维护
+## 感谢
+https://github.com/frk1/hazedumper 
+https://github.com/Whitebird0/driver_read_and_write
